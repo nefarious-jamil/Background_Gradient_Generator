@@ -1,0 +1,47 @@
+#grad1 {
+  height: 200px;
+  background-color: red; /* For browsers that do not support gradients */
+  background: linear-gradient(to right, #ffffff , #000000); /* Standard syntax (must be last) */
+  text-align: center;
+  text-transform: uppercase;
+  color: rgba(255,255,255,0.5);
+}
+
+
+h2{
+	font: 600 3em 'fantasy',sans-serif;
+	letter-spacing: 0.5em;
+
+}
+
+input{
+	margin: 2em;
+}
+
+#Text{
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 10%;
+}
+
+#left{
+	float: left;
+
+}
+
+#btn{
+	margin-top: 5%;
+	margin-right: 5%;
+	margin-left: 22%;
+	float: left;
+}
+
+#right{
+	float: right;
+	
+}
+
+#clear {
+    clear: both;
+
+}
